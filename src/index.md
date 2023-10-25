@@ -8,7 +8,7 @@ hero:
   text: "Your docs description"
   tagline:
   image:
-    src: copy_your_logo_image_under_src_public_folder
+    src: /logo.png
     alt: docs_logo
   actions:
     - theme: brand
